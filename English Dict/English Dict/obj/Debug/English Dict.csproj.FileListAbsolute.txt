@@ -1,0 +1,7 @@
+C:\Users\Ruchimaurya\source\repos\English Dict\English Dict\bin\Debug\English Dict.exe.config
+C:\Users\Ruchimaurya\source\repos\English Dict\English Dict\bin\Debug\English Dict.exe
+C:\Users\Ruchimaurya\source\repos\English Dict\English Dict\bin\Debug\English Dict.pdb
+C:\Users\Ruchimaurya\source\repos\English Dict\English Dict\obj\Debug\English Dict.csprojAssemblyReference.cache
+C:\Users\Ruchimaurya\source\repos\English Dict\English Dict\obj\Debug\English Dict.csproj.CoreCompileInputs.cache
+C:\Users\Ruchimaurya\source\repos\English Dict\English Dict\obj\Debug\English Dict.exe
+C:\Users\Ruchimaurya\source\repos\English Dict\English Dict\obj\Debug\English Dict.pdb
